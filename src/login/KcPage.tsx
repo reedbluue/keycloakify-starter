@@ -1,3 +1,4 @@
+import "preline";
 import "./index.css";
 import { Suspense, lazy } from "react";
 import type { ClassKey } from "keycloakify/login";
